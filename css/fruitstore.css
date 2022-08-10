@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+}
+ul{
+   display: flex;
+list-style: none;
+  }
+ li a{
+   display: inline;
+  text-decoration: none;
+  padding: 20px;
+}
+
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  width: 100%;
+}
